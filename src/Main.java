@@ -4,6 +4,6 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("Hello World! Change 10 and 11 combined");
+        System.out.println("Hello World! This is a new feature");
     }
 }
